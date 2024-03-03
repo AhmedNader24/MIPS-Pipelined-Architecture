@@ -1,0 +1,11 @@
+control.v
+Data_Memory.v
+datapath.v
+HAZARD_UNIT.v
+INSTRUCTION_MEMORY.v
+Mips_ALU.v
+Program_Counter.v
+Register_File.v
+Sign_Extended.v
+testbench.v
+top_module.v
